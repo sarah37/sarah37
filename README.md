@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working on a few things that aren't public just yet 👀
+- I'm currently wrapping up my PhD on responsive visualization & thematic mapping 💻📲 I have some [interactive demos & other materials available online.](https://responsive-vis.github.io/) 
 - I create interactive visualizations & maps! 📈🗺️ Find an overview on [my website](https://sarahschoettler.com/#projects). 
 - I teach workshops and short courses for the Centre for Data, Culture & Society at the University of Edinburgh; all our teaching materials are public via the [DCS-training org](https://github.com/DCS-training/).
 - Check out my [survey of geospatial network visualization techniques](https://geonetworks.github.io/)! If you also have a survey or other collection you want to publish, I created the [filterable-collection](https://github.com/sarah37/filterable-collection) website template based on the survey website.
